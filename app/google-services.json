@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "654415591412",
+    "firebase_url": "https://message-55ede-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "message-55ede",
+    "storage_bucket": "message-55ede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654415591412:android:a8ff432df41a19d7372ba1",
+        "android_client_info": {
+          "package_name": "com.example.message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnaMSrBMSRvJYqpQXhZ8PqWU9l7tRcYGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
